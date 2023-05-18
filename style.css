@@ -1,0 +1,81 @@
+
+body {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(36, 53, 6);
+}
+header {
+    border: 10px ridge rgb(202, 169, 20);
+    padding: 3px;
+    height: 50px;
+    background-color: rgb(255, 227, 137);
+    text-align: center;
+    font-size: 25px;
+}
+#content {
+    margin:0.5%;
+    border-radius: 15px;
+    padding-left: 1%;
+    padding-right: 1%;
+    font-size: 15px;
+    height: 100%;
+    text-align: center;
+    float: left;
+    width: 78%;
+    background-color:rgb(255, 224, 188) ;
+}
+aside {
+    position: relative;
+    text-align: center;
+    color: aliceblue;
+    height: 820px;
+    width: 9.5%;
+    float: left;
+    background-color:rgb(55, 136, 44) ;
+}
+footer {
+    position: relative;
+    border-top: 5px ridge rgb(202, 169, 20);
+    height:100px;
+    float:left;
+    text-align: center;
+    background-color:rgb(77, 102, 126);
+    width: 100%;
+    height:50px;
+}
+img {
+    margin: 5px;
+    width:150px;
+    float: left;
+}
+h1 {
+    font-size: 18px;
+}
+nav {
+    border-bottom: 3px solid rgb(12, 53, 16);
+    vertical-align: middle;
+    text-align: center;
+    font-size: 15px;
+    color: rgb(255, 238, 202);
+    padding: 3px;
+    height: 25px;
+    background-color: rgb(51, 116, 31);
+}
+a{
+    color:rgb(208, 255, 0);
+}
+a:visited {
+    color: rgb(63, 236, 115);
+}
+table {
+    float: left;
+    border: 3px ridge rgb(156, 112, 44);
+}
+#youtube1 {
+ width:15px;
+}
+#o {
+    float:right;
+}
+
+
+
